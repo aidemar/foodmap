@@ -1,0 +1,40 @@
+.container{
+  width: 100%;
+  max-width: 1300;
+  margin: 0px auto;
+}
+
+.splash-screen {
+  background: black;
+  /* height: 40em; */
+  height: 100vh;
+}
+
+.splash-screen-image {
+  margin-top: 15em;
+}
+
+
+/* Main section */
+.main-section {
+  display: none;
+  background: black;
+  color: #FF5A29;
+  height: 100vh;
+
+}
+
+hr{
+  width: 80%;
+}
+
+iframe {
+  width: 20em;
+  height: 20em;
+}
+
+.main-section-images {
+  width: 10em;
+  height: 10em;
+  display: inline-block;
+}
